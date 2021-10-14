@@ -1,0 +1,1 @@
+street='Diestsevest', nr='32 bus 4B', zipCode='3000', town='Leuven', country='Belgium', countryCode='BE'

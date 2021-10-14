@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ExA7" />
+        <module name="ExA6" />
+        <module name="ExA5" />
+        <module name="ExA4" />
+        <module name="ExA3" />
+        <module name="ExA2" />
+        <module name="ExA1" />
+        <module name="ExC4a" />
+        <module name="ExB3" />
+        <module name="ExB2" />
+        <module name="ExB1" />
+        <module name="ExC5" />
+        <module name="ExC3" />
+        <module name="ExC2" />
+        <module name="ExC1" />
+        <module name="testing" />
+        <module name="ExD1" />
+        <module name="ExC4b" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ExA1" target="1.8" />
+      <module name="ExA2" target="1.8" />
+      <module name="ExA3" target="1.8" />
+      <module name="ExA4" target="1.8" />
+      <module name="ExA5" target="1.8" />
+      <module name="ExA6" target="1.8" />
+      <module name="ExA7" target="1.8" />
+      <module name="ExB1" target="1.8" />
+      <module name="ExB2" target="1.8" />
+      <module name="ExB3" target="1.8" />
+      <module name="ExC1" target="1.8" />
+      <module name="ExC2" target="1.8" />
+      <module name="ExC3" target="1.8" />
+      <module name="ExC4a" target="1.8" />
+      <module name="ExC4b" target="1.8" />
+      <module name="ExC5" target="1.8" />
+      <module name="ExD1" target="1.8" />
+      <module name="testing" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

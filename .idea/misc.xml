@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/testing/pom.xml" />
+        <option value="$PROJECT_DIR$/ExA2/pom.xml" />
+        <option value="$PROJECT_DIR$/ExA3/pom.xml" />
+        <option value="$PROJECT_DIR$/ExA4/pom.xml" />
+        <option value="$PROJECT_DIR$/ExA5/pom.xml" />
+        <option value="$PROJECT_DIR$/ExA6/pom.xml" />
+        <option value="$PROJECT_DIR$/ExA1/pom.xml" />
+        <option value="$PROJECT_DIR$/ExA7/pom.xml" />
+        <option value="$PROJECT_DIR$/ExB1/pom.xml" />
+        <option value="$PROJECT_DIR$/ExB2/pom.xml" />
+        <option value="$PROJECT_DIR$/ExB3/pom.xml" />
+        <option value="$PROJECT_DIR$/ExC1/pom.xml" />
+        <option value="$PROJECT_DIR$/ExC2/pom.xml" />
+        <option value="$PROJECT_DIR$/ExC3/pom.xml" />
+        <option value="$PROJECT_DIR$/ExC4a/pom.xml" />
+        <option value="$PROJECT_DIR$/ExC4b/pom.xml" />
+        <option value="$PROJECT_DIR$/ExC5/pom.xml" />
+        <option value="$PROJECT_DIR$/ExD1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

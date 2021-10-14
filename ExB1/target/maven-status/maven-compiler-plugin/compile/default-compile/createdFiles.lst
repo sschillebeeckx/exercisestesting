@@ -1,0 +1,4 @@
+be\abis\testing\model\Person.class
+be\abis\testing\exception\PersonShouldBeAdultException.class
+be\abis\testing\model\Address.class
+be\abis\testing\model\Company.class
